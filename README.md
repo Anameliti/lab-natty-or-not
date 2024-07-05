@@ -1,4 +1,9 @@
-
+<p align="center">
+<img 
+    src="./assets/capa1.png"
+    width="900"  
+/>
+</p>
 <p align="center"> 
    Woooo, look at him! 👀​🔨​
 </p> 
@@ -7,15 +12,6 @@
 <a href="https://dio.com.br"><img src="https://img.shields.io/badge/DIO-Bootcamp-blue" alt="DIO"></a>
 <img src="https://img.shields.io/github/commit-activity/t/Anameliti/lab-natty-or-not/main?color=violet"> 
 
-</p>
-
-----
-
-<p align="center">
-<img 
-    src="./assets/capa.png"
-    width="800"  
-/>
 </p>
 
 ----
@@ -50,5 +46,7 @@ Gamma IA:
 
 - Imagens utilizadas em `assets`
 - ebook gerado durante as aulas em `output`
+
+----
 
 Com amor, Ana Meliti 
